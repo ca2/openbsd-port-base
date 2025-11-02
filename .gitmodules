@@ -10,3 +10,7 @@
 	path = stb
 	url = ../../cpp-port/stb
 	branch = main
+[submodule "tinyobjloader"]
+	path = tinyobjloader
+	url = ../../cpp-port/tiny-tinyobjloader
+	branch = main
